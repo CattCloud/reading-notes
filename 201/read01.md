@@ -5,7 +5,6 @@
     > Es posible estructurar una pagina usando `<div>`, pero no es la mejor forma, la mejor opcion es usar etiquetas semanticas que le dan un significado a cada estructura de la web.
 
 2. Aplicar roles y atributos ARIA es imprescindible para mejorar la accesibilidad de un sitio.   
-   
     ##### Verdad
     > Estos roles y atributos ayudan a proporcionar información adicional a los usuarios de la web. 
 
