@@ -139,26 +139,4 @@ Puedo ayudarte a armar:
 
 
 
-| **Sprint** | **Módulo**                    | **HU** | **Descripción** |
-|-----------|--------------------------------|--------|----------------|
-| **Sprint 1** | Autenticación y Perfiles     | HU1    | Inicio de sesión básico con usuario y contraseña |
-|           |                                | HU2    | Acceso segmentado según el rol (Padre, Docente, Administrador) |
-|           |                                | HU3    | Asignación de permisos a docentes por parte del director |
-| **Sprint 2** | Asistencia y Calificaciones  | HU4    | Consulta de calificaciones por curso y bimestre |
-|           |                                | HU5    | Consulta de asistencias con filtro por fecha o bimestre |
-|           |                                | HU6    | Notificación por inasistencias consecutivas |
-|           |                                | HU7    | Notificación de bajo rendimiento académico |
-| **Sprint 3** | Comunicados y Avisos         | HU8    | Publicación de comunicados por directores/docentes autorizados |
-|           |                                | HU9    | Visualización de comunicados segmentados |
-|           |                                | HU10   | Gestión de comunicados (editar, eliminar, desactivar) |
-| **Sprint 4** | Encuestas                    | HU11   | Creación de encuestas dinámicas |
-|           |                                | HU12   | Responder encuestas asignadas |
-|           |                                | HU13   | Reporte de resultados y análisis |
-| **Sprint 5** | Mensajes y Consultas         | HU14   | Enviar y recibir mensajes entre docentes y padres |
-|           |                                | HU15   | Responder consultas de manera estructurada |
-|           |                                | HU16   | Supervisión de historial de mensajes por el director |
-| **Sprint 6** | Soporte Técnico y Ayuda      | HU17   | Consultar preguntas frecuentes del sistema |
-|           |                                | HU18   | Crear solicitud de soporte técnico |
-|           |                                | HU19   | Ver estado y detalle de solicitudes enviadas |
-
 
